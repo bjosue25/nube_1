@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+h1, h2, h3,th{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+}
+p,a,h4,h5,h6,td{
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+}
+
+body {
+	background: #afafaf;
+}
+
+.formulario {
+	background: rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 30px rgba(0, -0, -0, -0.568);
+}
+
+.letrapequeña{
+	font-size: 13px;
+}
+
+
+
+
+.card{
+	
+	margin: auto;
+	width: 250px; 
+	padding: 10px;
+	font-family: 'Arial', sans-serif; 
+	color: #814444; 
+
+}
