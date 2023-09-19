@@ -11,13 +11,17 @@ p,a,h4,h5,h6,td{
 
 body {
 	background: #afafaf;
+	justify-content:center;
 }
 
 .formulario {
 	background: rgba(0, 0, 0, 0.1);
-	padding: 20px;
-	border-radius: 10px;
-	box-shadow: 0 0 30px rgba(0, -0, -0, -0.568);
+	padding: 10px;
+	border-radius: 20px;
+	box-shadow: 0 0 10px rgba(0, -0, -0, -0.568);
+	justify-content: center;
+    height: 350px; /* Altura deseada */
+    text-align: center; 
 }
 
 .letrapequeña{
@@ -30,9 +34,10 @@ body {
 .card{
 	
 	margin: auto;
-	width: 250px; 
+	width: 230px; 
 	padding: 10px;
 	font-family: 'Arial', sans-serif; 
 	color: #814444; 
+	justify-content:center;
 
 }
